@@ -1,1 +1,1 @@
-Test 8 termin.
+Test 8 termin. izmena
